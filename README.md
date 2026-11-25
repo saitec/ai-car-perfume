@@ -24,6 +24,9 @@
 
 ## 🧪 the experiment
 
+> 📖 **the long version:** [What if a brand is an RL environment? (part two)](https://battlecards.substack.com/p/brand-rl-environment-part-two), with hand-drawn notes in [`notes/`](notes/).
+
+
 ```
    🧪 THE TEST
 
